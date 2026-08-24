@@ -1,7 +1,5 @@
 create database airport;
 use airport;
-alter table airport2 change ï»¿origin_airport origin_airport varchar(50);
-alter table airport2 change distance_km distance int;
 select * from airport2;
 
 ######## Q.1.find Total No of passengers travel between which 2 airports? ##########
