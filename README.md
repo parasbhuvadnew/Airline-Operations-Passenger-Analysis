@@ -231,25 +231,23 @@ airline-operations-passenger-analysis-mysql/
 
 ---
 
-# 📸 Sample SQL Results
+## 📸 SQL Analysis Results
 
-### Total Passengers Between Airports
+### 1. Total Passengers Between Airports
 
-The analysis identifies the airport pair with the highest passenger volume.
+![Total Passengers Between Airports](screenshots/total-passengers-between-airports.png)
 
-### Underutilized Routes
+### 2. Underutilized Routes
 
-The passenger-to-seat ratio is used to compare route utilization.
+![Underutilized Routes](screenshots/underutilized-routes.png)
 
-### City Passenger Analysis
+### 3. City Passenger Analysis
 
-The project identifies passenger movement from other cities toward Mumbai.
+![City Passenger Analysis](screenshots/city-passenger-analysis.png)
 
-### Longest Average Distance
+### 4. Longest Average Distance Routes
 
-The analysis ranks routes based on their average flight distance.
-
----
+![Longest Average Distance Routes](screenshots/longest-average-distance-route.png)
 
 # 💼 Business Applications
 
