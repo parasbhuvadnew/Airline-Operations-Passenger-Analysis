@@ -206,8 +206,9 @@ This demonstrates the use of SQL Window Functions for analytical problems.
 
 ---
 
-# 📂 Project Structure
+## 📁 Project Structure
 
+```text
 airline-operations-passenger-analysis-mysql/
 │
 ├── dataset/
