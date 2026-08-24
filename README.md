@@ -208,26 +208,24 @@ This demonstrates the use of SQL Window Functions for analytical problems.
 
 # 📂 Project Structure
 
-```text
 airline-operations-passenger-analysis-mysql/
 │
-├── README.md
-│
-├── dataset/
+├── 📁 dataset
 │   └── airport2.xlsx
 │
-├── sql/
-│   └── airline_operations_analysis.sql
+├── 📁 documentation
+│   └── airport-data-analysis.pdf
 │
-├── screenshots/
+├── 📁 results
 │   ├── total-passengers-between-airports.png
 │   ├── underutilized-routes.png
 │   ├── city-passenger-analysis.png
 │   └── longest-average-distance-route.png
 │
-└── documentation/
-    └── airport-data-analysis.pdf
-```
+├── 📁 sql
+│   └── airline_operations_analysis.sql
+│
+└── 📄 README.md
 
 ---
 
