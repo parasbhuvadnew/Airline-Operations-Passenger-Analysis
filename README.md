@@ -223,7 +223,7 @@ airline-operations-passenger-analysis-mysql/
 │   └── longest-average-distance-route.png
 │
 ├── 📁 sql
-│   └── airline_operations_analysis.sql
+│   └── airline_data_analysis.sql
 │
 └── 📄 README.md
 
