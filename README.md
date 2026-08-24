@@ -235,19 +235,19 @@ airline-operations-passenger-analysis-mysql/
 
 ### 1. Total Passengers Between Airports
 
-![Total Passengers Between Airports](screenshots/total-passengers-between-airports.png)
+![Total Passengers Between Airports](./total-passengers-between-airports.png)
 
 ### 2. Underutilized Routes
 
-![Underutilized Routes](screenshots/underutilized-routes.png)
+![Underutilized Routes](./underutilized-routes.png)
 
 ### 3. City Passenger Analysis
 
-![City Passenger Analysis](screenshots/city-passenger-analysis.png)
+![City Passenger Analysis](./city-passenger-analysis.png)
 
-### 4. Longest Average Distance Routes
+### 4. Longest Average Distance Route
 
-![Longest Average Distance Routes](screenshots/longest-average-distance-route.png)
+![Longest Average Distance Route](./longest-average-distance-route.png)
 
 # 💼 Business Applications
 
