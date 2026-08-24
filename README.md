@@ -210,22 +210,22 @@ This demonstrates the use of SQL Window Functions for analytical problems.
 
 airline-operations-passenger-analysis-mysql/
 │
-├── 📁 dataset
+├── dataset/
 │   └── airport2.xlsx
 │
-├── 📁 documentation
+├── documentation/
 │   └── airport-data-analysis.pdf
 │
-├── 📁 results
+├── results/
 │   ├── total-passengers-between-airports.png
 │   ├── underutilized-routes.png
 │   ├── city-passenger-analysis.png
 │   └── longest-average-distance-route.png
 │
-├── 📁 sql
-│   └── airline_data_analysis.sql
+├── sql/
+│   └── airline_operations_analysis.sql
 │
-└── 📄 README.md
+└── README.md
 
 ---
 
